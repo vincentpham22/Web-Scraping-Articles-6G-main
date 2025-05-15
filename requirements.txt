@@ -1,0 +1,10 @@
+xlsxwriter
+openpyxl
+PyPDF2
+pandas
+matplotlib
+requests
+groq
+streamlit
+wordcloud
+pytest
